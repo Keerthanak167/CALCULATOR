@@ -19,7 +19,7 @@ A simple and clean **Basic Calculator** built using **Java Swing**. This project
 
 ## 🖼️ Preview
 
-![Calculator Screenshot](calculator_output.jpg)
+![Calculator Screenshot](calculator_output.png)
 
 
 ## ⚙️ How to Run
