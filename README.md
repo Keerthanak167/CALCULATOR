@@ -27,8 +27,10 @@ A simple and clean **Basic Calculator** built using **Java Swing**. This project
 ### Option 1: Using Terminal / Command Line
 1. Clone the repository:
    git clone https://github.com/adharv49/Basic-Calculator.git
+   
    cd Basic-Calculator
 2. Compile and run:
 
    javac Calculator.java
+   
    java Calculator
