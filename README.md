@@ -2,7 +2,7 @@
 
 A simple and clean **Basic Calculator** built using **Java Swing**. This project performs basic arithmetic operations and includes essential features like clear and backspace.
 
-> Repository: [adharv49/Basic-Calculator](https://github.com/adharv49/Basic-Calculator)
+> Repository: [Keerthanak167/CALCULATOR](https://github.com/Keerthanak167/CALCULATOR)
 
 ## ✨ Features
 
@@ -26,9 +26,9 @@ A simple and clean **Basic Calculator** built using **Java Swing**. This project
 
 ### Option 1: Using Terminal / Command Line
 1. Clone the repository:
-   git clone https://github.com/adharv49/Basic-Calculator.git
+   git clone https://github.com/Keerthanak167/CALCULATOR.git
    
-   cd Basic-Calculator
+   cd Calculator
 2. Compile and run:
 
    javac Calculator.java
